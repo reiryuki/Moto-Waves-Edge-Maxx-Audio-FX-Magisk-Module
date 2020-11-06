@@ -1,1 +1,1 @@
-# Moto-Waves-Edge-Maxx-Audio-FX
+# Moto Waves Edge Maxx Audio FX
