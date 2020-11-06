@@ -18,6 +18,8 @@ An equalizer ported from Motorola Edge (racer) for any Android 9 and 10 arm and 
 ## Troubleshootings
 - Install Audio Compatibility Patch for processing all audio outputs.
 
+- If encounter bootloop, delete /data/adb/modules/MotoWaves/system/etc/public.libraries.txt. Also /data/adb/modules/MotoWaves/system/lib and lib64.
+
 - If sometime you installing Moto Camera One + feature support but it's crash, keep it installed, then reboot your device. It will be working fine after reboot.
 
 - If you uninstalling acdb, then you have to reinstall this module.
