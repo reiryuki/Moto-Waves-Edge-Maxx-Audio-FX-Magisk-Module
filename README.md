@@ -12,6 +12,8 @@ An equalizer ported from Motorola Edge (racer) for any Android 9 and 10 arm and 
 
 - Tap 'About' then tap multiple times there if you want to disable FX for loudspeaker.
 
+- You can update Moto Audio via Play Store
+
 ## Optional
 - Install Audio Modification Library module or [ACDB module](https://t.me/viperatmos) (choose one, don't use both!) if you using multiple audio mods together with Dolby or Viper or any else.
 
