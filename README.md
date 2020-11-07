@@ -1,7 +1,7 @@
 # Moto Waves Edge Maxx Audio FX
 
 ## Descriptions
-An equalizer ported from Motorola Edge (racer) for any Android 9 and 10 arm and arm64 devices. Android 11? Not tested yet.
+An equalizer ported from Motorola Edge (racer) for any Android 9 and 10 arm and arm64 devices.
 
 ## Installation Guide
 - Install the module via Magisk Manager only.
