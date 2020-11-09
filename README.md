@@ -1,4 +1,4 @@
-# Moto Waves Edge Maxx Audio FX
+# Moto Waves Edge Maxx Audio FX Magisk Module
 
 ## Descriptions
 An equalizer ported from Motorola Edge (racer) for any Android 9 and 10 arm and arm64 devices.
