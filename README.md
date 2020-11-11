@@ -2,6 +2,7 @@
 
 ## Descriptions
 - An equalizer ported from Motorola Edge (racer)
+- Don't use with Moto Dolby!
 
 ## Requirements
 - arm or arm64
