@@ -2,7 +2,6 @@
 
 ## Descriptions
 - An equalizer ported from Motorola Edge (racer)
-- Don't use with Moto Dolby!
 
 ## Requirements
 - arm or arm64
@@ -10,13 +9,9 @@
 
 ## Installation Guide
 - Install the module via Magisk Manager only.
-
 - Reboot.
-
 - Open equalizer option in your Music app and tap 'Show icon in the app tray' for showing Moto Audio icon launcher.
-
 - Tap 'About' then tap multiple times there if you want to disable FX for loudspeaker.
-
 - You can update Moto Audio via Play Store
 
 ## Optional
@@ -24,21 +19,16 @@
 
 ## Troubleshootings
 - Install Audio Compatibility Patch for processing all audio outputs.
-
 - If encounter bootloop, delete /data/adb/modules/MotoWaves/system/etc/public.libraries.txt.
-
 - If sometime you installing Moto Camera One + feature support but it's crash, keep it installed, then reboot your device. It will be working fine after reboot.
-
 - If you uninstalling acdb, then you have to reinstall this module.
 
 ## Attention!
+- Using together with Moto Dolby, will break waves.proc_twks.
 - Always make nandroid backup before install or updating version, these are just experiments!
-
-- I only test this on my Redmi 4A rolex AOSP Android 10. Android 11 or other devices may not work.
-
-- Please open issues with logcat if you got problems. Don't report anything without logcat!
-
-- Special thanks to @guitardedhero and all people that helped and tested my modules.
+- Android 11 maybe working, maybe not, maybe bootloop.
+- Don't report anything without logcats!
+- Special thanks to all people that helped and tested my modules.
 
 ## Download
 - Link bellow at "Releases".
