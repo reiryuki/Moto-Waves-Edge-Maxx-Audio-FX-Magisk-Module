@@ -19,14 +19,11 @@
 
 ## Troubleshootings
 - Install Audio Compatibility Patch for processing all audio outputs.
-- If encounter bootloop, delete /data/adb/modules/MotoWaves/system/etc/public.libraries.txt. (v1.2 and bellow only).
 - If sometime you installing Moto Camera One + feature support but it's crash, keep it installed, then reboot your device. It will be working fine after reboot.
-- If you uninstalling acdb, then you have to reinstall this module. (v1.2 and bellow only).
 
 ## Attention!
-- Using together with Moto Dolby, will break waves.proc_twks.
 - Always make nandroid backup before install or updating version, these are just experiments!
-- Android 11 maybe working, maybe not, maybe bootloop.
+- Android 11 maybe working, maybe not.
 - Don't report anything without logcats!
 - Special thanks to all people that helped and tested my modules.
 
