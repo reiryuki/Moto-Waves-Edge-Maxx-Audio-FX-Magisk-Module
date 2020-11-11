@@ -19,7 +19,7 @@
 
 ## Troubleshootings
 - Install Audio Compatibility Patch for processing all audio outputs.
-- If encounter bootloop, delete /data/adb/modules/MotoWaves/system/etc/public.libraries.txt.
+- If encounter bootloop, delete /data/adb/modules/MotoWaves/system/etc/public.libraries.txt. (v1.2 and bellow only).
 - If sometime you installing Moto Camera One + feature support but it's crash, keep it installed, then reboot your device. It will be working fine after reboot.
 - If you uninstalling acdb, then you have to reinstall this module. (v1.3 and up not).
 
