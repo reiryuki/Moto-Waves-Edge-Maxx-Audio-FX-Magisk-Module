@@ -21,10 +21,14 @@
 - Install Audio Compatibility Patch for processing all audio outputs.
 - If sometime you installing Moto Camera One + feature support but it's crash, keep it installed, then reboot your device. It will be working fine after reboot.
 
+## Report Guide
+- Send me full logcats using this app https://play.google.com/store/apps/details?id=com.dp.logcatapp
+- Send all "audio_effects" files in system/etc and vendor/etc
+- If you don't do above, it will be closed immediately
+
 ## Attention!
 - Always make nandroid backup before install or updating version, these are just experiments!
 - Android 11 maybe working, maybe not.
-- Don't report anything without logcats!
 - Special thanks to all people that helped and tested my modules.
 
 ## Telegram
