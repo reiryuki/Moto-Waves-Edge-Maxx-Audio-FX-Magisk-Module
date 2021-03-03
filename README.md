@@ -18,18 +18,14 @@
 ## Optional
 
 ## Troubleshootings
-- Install Audio Compatibility Patch for processing all audio outputs.
-- If sometime you installing Moto Camera One + feature support but it's crash, keep it installed, then reboot your device. It will be working fine after reboot.
+- https://t.me/audioryukimods/3081
 
 ## Report Guide
 - https://t.me/audioryukimods/2618
 - If you don't do above, it will be closed immediately
 
-## Telegram
-- https://t.me/audioryukimods
-
 ## Donate
-https://www.paypal.me/reiryuki
+- https://www.paypal.me/reiryuki
 
 ## Download
 - Tap "Releases" bellow
