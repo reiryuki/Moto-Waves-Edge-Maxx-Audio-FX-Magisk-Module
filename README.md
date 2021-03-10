@@ -4,8 +4,9 @@
 - An equalizer ported from Motorola Edge (racer)
 
 ## Requirements
-- arm or arm64
+- arm or arm64 architecture
 - Android 9 or 10
+- Magisk installed
 
 ## Installation Guide
 - Install the module via Magisk Manager only
